@@ -3,12 +3,12 @@
   ---
 
   ### Contact information:
-  **Address:**Moscow
-  **Phone:** +7 909 0999660
-  **E-mail:** rinat.abzalutdinov@gmail.com
-  **Telegram:** [rinatAbzalutdinov](https://t.me/rinatAbzalutdinov)
-  **LinkedIn** [Rinat Abzalutdinov](https://www.linkedin.com/in/rinat-abzalutdinov-82a883239/)
-  **GitHub**[Rinatelo](https://github.com/Rinatelo)
+  * **Address:**Moscow
+  * **Phone:** +7 909 0999660
+  * **E-mail:** rinat.abzalutdinov@gmail.com
+  * **Telegram:** [rinatAbzalutdinov](https://t.me/rinatAbzalutdinov)
+  * **LinkedIn** [Rinat Abzalutdinov](https://www.linkedin.com/in/rinat-abzalutdinov-82a883239/)
+  * **GitHub**[Rinatelo](https://github.com/Rinatelo)
 
   ---
 
