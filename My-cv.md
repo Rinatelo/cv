@@ -3,7 +3,7 @@
   ---
 
   ### Contact information:
-  * **Address:**Moscow
+  * **Address:** Moscow
   * **Phone:** +7 909 0999660
   * **E-mail:** rinat.abzalutdinov@gmail.com
   * **Telegram:** [rinatAbzalutdinov](https://t.me/rinatAbzalutdinov)
@@ -71,7 +71,7 @@
 
   ---
 
-  ###Education
+  ### Education
   * University: 
         * Nosov Magnitogorsk State Technical University
         * Innopolis University
@@ -82,13 +82,13 @@
 
   ---
 
-  ###Experience
+  ### Experience
   * I used to work as an equipment maintenance and repair engineer
   * Little experience in JS and frontend development. Worked in a team on several small projects and currently working.
   * Currently, I am gaining practical experience working with JavaScript by working on a web application project at RS School. I have studied various JavaScript libraries and frameworks such as React and Node.js and applied them to create dynamic and interactive user interfaces.
 
   ---
 
-  ###Languages
+  ### Languages
   *Russian: native
   *English: A2 (B1 in process…)
