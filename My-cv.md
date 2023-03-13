@@ -90,5 +90,5 @@
   ---
 
   ### Languages
-  *Russian: native
-  *English: A2 (B1 in process…)
+  * Russian: native
+  * English: A2 (B1 in process…)
