@@ -76,7 +76,7 @@
       * Nosov Magnitogorsk State Technical University
       * Innopolis University
   * Courses: 
-      * HTML academySome experience in JS and front-end development. Worked in a team on several small projects and is currently working
+      * HTML academy
       * Skillbox
       * Stepik
 
