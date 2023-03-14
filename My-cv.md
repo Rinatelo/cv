@@ -73,18 +73,18 @@
 
   ### Education
   * University: 
-        * Nosov Magnitogorsk State Technical University
-        * Innopolis University
+      * Nosov Magnitogorsk State Technical University
+      * Innopolis University
   * Courses: 
-        * HTML academy
-        * Skillbox
-        * Stepik
+      * HTML academySome experience in JS and front-end development. Worked in a team on several small projects and is currently working
+      * Skillbox
+      * Stepik
 
   ---
 
   ### Experience
   * I used to work as an equipment maintenance and repair engineer
-  * Little experience in JS and frontend development. Worked in a team on several small projects and currently working.
+  * Some experience in JS and front-end development. Worked in a team on several small projects and is currently working.
   * Currently, I am gaining practical experience working with JavaScript by working on a web application project at RS School. I have studied various JavaScript libraries and frameworks such as React and Node.js and applied them to create dynamic and interactive user interfaces.
 
   ---
